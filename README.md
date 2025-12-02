@@ -1,6 +1,5 @@
 # dkz-scolia-overlay
-Scoliadarts.com Overlay für z.B. OBS in Stil der offiziellen PDC Übertragungen
-
+Scoliadarts.com Overlay für z.B. OBS im Stil der offiziellen PDC Übertragungen
 ## Nutzung
 
 Die bereitgestellten Dateien (Overlay-Pages und zugehörige Dateien) dürfen frei verwendet werden, 
