@@ -622,7 +622,7 @@ img {
 /* ============================================
    RESPONSIVE
    ============================================ */
-@media (max-width: 1024px) {
+@media (max-width: 1280px) {
     .hero {
         flex-direction: column;
         text-align: center;
@@ -636,9 +636,11 @@ img {
         transform: none;
         margin-top: 40px;
         opacity: 1;
-        max-width: 100%;
+        max-width: 500px;
     }
+}
 
+@media (max-width: 1024px) {
     .zoom-content {
         grid-template-columns: 1fr;
         gap: 40px;
