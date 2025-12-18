@@ -1,4 +1,4 @@
-# Scolia Tools für Streamer - TV-Style Overlay Scoreboards und TV Auto-Zoom
+# DKZ Scolia Tools für Streamer - TV-Style Overlay Scoreboards und TV Auto-Zoom
 
 > Das ultimative Tool für Scolia Darts Streams mit Auto-Zoom und anpassbaren PDC-Style Scoreboards
 
